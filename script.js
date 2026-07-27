@@ -16,7 +16,7 @@ const characters = [
         description: "Pet."
     },
     {
-        image: "characters/5.png",
+        image: "5.png",
         description: "Defender shooter flying bot thing?"
     },
     {
